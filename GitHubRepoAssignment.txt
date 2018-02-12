@@ -1,0 +1,276 @@
+    1  ipconfig /all
+    2  ipconfig -a
+    3  ipconfig
+    4  ipconfig getifaddr
+    5  man ipconfig
+    6  ping 192.168.1.3
+    7  ping 192.168.1.4
+    8  ls
+    9  cd Pictures
+   10  ls
+   11  R
+   12  which R
+   13  r
+   14  ls /usr/bin/
+   15  ls
+   16  df -k .
+   17  top
+   18  /Applications/Mobile\ DataCard/Uninstaller.command ; exit;
+   19  /Applications/Mobile\ DataCard/Uninstaller.command ; exit;
+   20  cd
+   21  ping 192.168.1.3
+   22  ifconfig /a
+   23  /usr/sbin/ifconfig /a
+   24  /usr/sbin/ipconfig /a
+   25  /usr/sbin/ipconfig 
+   26  ping localhost
+   27  cd library
+   28  cd Application Support
+   29  ls
+   30  cd "Application Support"
+   31  cd Google
+   32  ls
+   33  rm -r Drive
+   34  exit
+   35  open $TMPDIR../C/
+   36  open `getconf DARWIN_USER_TEMP_DIR`
+   37  open `getconf DARWIN_USER_TEMP_DIR`
+   38  cd 
+   39  /var/folders/lb/4yjq70x91n978zj6vvr3qd2m0000gn/C/com.apple.app store/412056820/
+   40  /var/folders/lb/4yjq70x91n978zj6vvr3qd2m0000gn/C/com.apple.app store/
+   41  /var/folders/lb/4yjq70x91n978zj6vvr3qd2m0000gn
+   42  cd $TMP_DIR
+   43  ls
+   44  cd ../C/
+   45  ls ..
+   46  pwd
+   47  getconf $TMPDIR
+   48  history
+   49   open $TMPDIR../C/
+   50  cd Library
+   51  ls
+   52  cd "Application Support"
+   53  ls
+   54  cd iCloud
+   55  ls
+   56  git --list
+   57  git init
+   58  cd desktop
+   59  git --list
+   60  git init
+   61  ls
+   62  cd test
+   63  git --list
+   64  git init
+   65  git --list
+   66  git status
+   67  git add.
+   68  git add .
+   69  git status
+   70  git log
+   71  git commit -m "first commit"
+   72  git log
+   73  which atom
+   74  cd desktop
+   75  ls
+   76  mkdir test
+   77  cd test
+   78  touch index.html styles.css commands.txt 
+   79  ls
+   80  copy index.html index-2.html
+   81  cp index.html index_2.html
+   82  ls
+   83  rm sytles.css
+   84  rm styles.css
+   85  ls
+   86  cd ..
+   87  pwd
+   88  mkdir destination
+   89  ls
+   90  mv ./test/index_2.html ./destination
+   91  ls test
+   92  ls destination
+   93  rm -rf destination
+   94  ls
+   95  >test/commands.txt
+   96  ls
+   97  cd test
+   98  ls 
+   99  touch commands.txt
+  100  size commands.txt
+  101  >./test/commands.txt
+  102  > ./test/commands.txt
+  103  >> test/commands.txt
+  104  >> commands.txt
+  105  > commands.txt
+  106  history > commands.txt
+  107  ls
+  108  cd desktop
+  109  ls
+  110  cd DojoAssignments/
+  111  ls
+  112  rm -r DojoAssignments
+  113  cd ..
+  114  rm -rf DojoAssignments
+  115  ls
+  116  clear
+  117  mkdir DojoAssignments
+  118  cd DojoAssignments/
+  119  touch WebFundamentals Python MEAN Ruby iOS netCore
+  120  ls
+  121  touch about.txt WebFundamentals Python MEAN Ruby iOS netCore
+  122  cd WebFundamentals 
+  123  clear
+  124  ls
+  125  cd WebFundamentals
+  126  cd ..
+  127  rm -rf DojoAssignments/
+  128  clear
+  129  mkdir DojoAssignments
+  130  ls DojoAssignments/
+  131  mkdir WebFundamentals Python MEAN Ruby iOS netCore
+  132  ls
+  133  clear
+  134  cd ..
+  135  rm -rf DojoAssignments
+  136  mkdir DojoAssignments
+  137  cd DojoAssignments/
+  138  mkdir WebFundamentals Python MEAN Ruby iOS netCore
+  139  touch about.txt WebFundamentals Python MEAN Ruby iOS netCore
+  140  cd WebFundamentals/
+  141  ls
+  142  cd ..
+  143  ls
+  144  rm about.txt
+  145  ls
+  146  touch about.txt WebFundamentals/. Python/.
+  147  ls
+  148  ls WebFundamentals/
+  149  cd WebFundamentals
+  150  ls
+  151  cd ..
+  152  ls
+  153  rm about.txt
+  154  ls
+  155  touch about.txt WebFundamentals/about.txt
+  156  ls
+  157  cd WebFundamentals/
+  158  ls
+  159  cd ..
+  160  touch Python/about.txt MEAN/about.txt Ruby/about.txt iOS/about.txt netCore/about.txt
+  161  cd WebFundamentals/
+  162  mkdir Git HTML CSS Javascript
+  163  touch Git/about.txt HTML/about.txt CSS/about.txt Javascript/about.txt
+  164  cd HTML
+  165  touch indentation.html
+  166  cd ..
+  167  cd ..
+  168  ls -R > assignments.txt
+  169  pwd
+  170  git --version
+  171  git config
+  172  git config --list
+  173  git --version
+  174  git config --list
+  175  git config color.ui auto
+  176  git config --list
+  177  git confiig user.name "Uzi"
+  178  git config user.name "Uzi"
+  179  git config --list
+  180  git config user.name "Uzma"
+  181  git config --list
+  182  git status
+  183  git log
+  184  cd ..
+  185  cd ..
+  186  cd desktop
+  187  pwd
+  188  mkdir gittest
+  189  ls
+  190  cd gittest
+  191  pwd
+  192  git init
+  193  touch index.html styles.css aboutMe.txt
+  194  git status
+  195  git commit -m "Added favorite movie to aboutMe.txt"
+  196  git add .
+  197  git commit -m "Added favorite movie to aboutMe.txt"
+  198  git log
+  199  revert git revert 45f8cc3
+  200  git revert -n
+  201  git revert -n 45f8cc3d7089a152105c41efc3698cbb0baed4a1
+  202  echo ls
+  203  ls
+  204  touch index.html styles.css aboutMe.txt
+  205  ls
+  206  cat aboutMe.txt " My name is Uzma"
+  207  echo aboutMe.txt
+  208  git status
+  209  git add .
+  210  git status
+  211  git commit -m "With fav book"
+  212  git status
+  213  git add aboutMe.txt
+  214  git status
+  215  git commit -m "With movie"
+  216  git revert -n 
+  217  git revert 
+  218  git revert b96937e
+  219  cd gittest
+  220  cd desktop
+  221  ls
+  222  cd gittest/
+  223  ls
+  224  git status
+  225  history > commands.txt
+  226  git remote add origin https://github.com/husainun/gittest.git
+  227  git push -u origin master
+  228  git remote
+  229  git remote remove origin
+  230  git remote
+  231  git remote add origing http://github.com/husainun/gittest.git
+  232  git remote
+  233  git remote show
+  234  clear
+  235  pwd
+  236  cd ..
+  237  ls
+  238  cd DojoAssignments/
+  239  ls
+  240  mkdir GitHubRepoAssignment
+  241  cd GitHubRepoAssignment
+  242  ls
+  243  git init
+  244  echo "this is going to be a readme file" > readme.md
+  245  ls
+  246  git status
+  247  echo readme.md
+  248  cat readme.md
+  249  echo "This is going to be a read me file. This file will show us how the to push a file to the remote github <h1>Repository</h1> > readme2.md
+ls
+echo "This is going to be a read me file. This file will show us how the to push a file to the remote github <h1>Repository</h1> > readme2.md
+  250  ls" > readme2.md
+echo "This is going to be a read me file. This file will show us how the to push a file to the remote github <h1>Repository</h1> > readme2.md
+  251  ls
+  252  echo "This is going to be a read me file. This file will show us how the to push a file to the remote github location" > readme2.md
+  253  echo "this is going to be a readme file" > readme.md
+  254  cat readme.md
+  255  git status
+  256  rm readme2.md
+  257  git status
+  258  git add .
+  259  git status
+  260  git commit -m "Adding the readme.md file"
+  261  git remote add origin "https://github.com/husainun/GitHubRepoAssignment.git
+"
+  262  git remote
+  263  git push origin master
+  264  git remote add origin "https://github.com/husainun/GitHubRepoAssignment.git"
+  265  git remove origin
+  266  remove origin
+  267  git remove origin
+  268  git remove remote origin
+  269  git remote remove origin
+  270  git remote add origin "https://github.com/husainun/GitHubRepoAssignment.git"
+  271  git push origin master
+  272  history > GitHubRepoAssignment.txt
